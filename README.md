@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a CodeCombat team<br>🤝 I’m looking for help with Frontend<br>🌱 I’m currently learning React js, Delphi<br>💬 Ask me about ASP.Net, React js<br>⚡ Fun fact I like coffee
+🌱 I’m currently learning React js, Delphi<br>⚡ Fun fact I like coffee
 
 
 ## 🌐 Socials:
