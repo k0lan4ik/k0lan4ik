@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React js, Delphi<br>⚡ Fun fact I like coffee
+🌱 I’m currently learning ASM(FASM), Delphi<br>⚡ Fun fact I like coffee
 
 
 ## 🌐 Socials:
