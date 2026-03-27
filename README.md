@@ -1,3 +1,4 @@
+
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Kolya+%F0%9F%91%8B;Low-level+programmer;OS+developer+from+scratch;Every+byte+matters." />
 </h3>
@@ -8,6 +9,7 @@
 
 - 🖥️ Building my own OS — **[HelloOS](https://github.com/k0lan4ik/HelloOS)** — 16-bit & 32-bit from scratch in FASM
 - ⚙️ Deep into: bootloaders, Protected Mode, file systems, drivers, bare metal
+- 🌐 Interested in: computer networks, network protocols and how the internet works under the hood
 - 📖 Studying: x86 architecture, OS internals, memory management & interrupts
 - ☕ Fueled by coffee and late-night debugging sessions
 
